@@ -13,7 +13,7 @@ Dont recode my script.
 $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
-$ git clone https://github.com/Xhinsu404/GhostSQLX.git
+$ git clone https://github.com/Xhinsuid/GhostSQLX.git
 $ cd GhostSQLX
 $ python3 GhostSQLX.py
 ```
@@ -22,4 +22,4 @@ If you have any problems or errors please contact me from gmail below
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
 
 ### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Xhinsuid/count.svg)
