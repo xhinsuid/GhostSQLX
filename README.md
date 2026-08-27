@@ -18,8 +18,4 @@ $ cd GhostSQLX
 $ python3 GhostSQLX.py
 ```
 ## There is a problem?
-If you have any problems or errors please contact me from gmail below
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xynnxploit941@gmail.com) 
-
-### Visitors :
-![Visitor Count](https://profile-counter.glitch.me/KevinAbil/count.svg)
+If you have any problems or errors please contact me
